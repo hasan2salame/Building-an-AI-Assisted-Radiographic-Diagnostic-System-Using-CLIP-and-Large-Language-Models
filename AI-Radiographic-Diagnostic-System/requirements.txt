@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+pillow
+matplotlib
+pandas
+tqdm
+scikit-learn
+seaborn
+kaggle
+torchsummary
+transformers
+sentencepiece
+ftfy
+regex
+git+https://github.com/openai/CLIP.git
